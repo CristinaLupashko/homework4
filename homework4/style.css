@@ -1,0 +1,45 @@
+.class1{
+    color: rgb(192, 21, 21)
+}
+ol{
+    color: rgb(209, 26, 26);
+}
+.bolder{
+    font-weight: bolder;
+}
+.color{
+    color: blue;
+    font-style: oblique;
+    font-weight: bolder;
+}
+.class2{
+    color: rgb(11, 102, 11);
+}
+.span1{
+    color:red;
+    font-weight: bolder;
+}
+#span2{
+    color: rgb(180, 24, 24);
+    font-weight: bolder;
+}
+p{
+    width: 600px;
+}
+.colorh2{
+    color: rgb(11, 102, 11);
+}
+#color3{
+    color: blue;
+    font-style: oblique;
+    font-weight: bold;
+}
+ul{
+    color: rgb(121, 86, 124);
+    width: 600px;
+    font-style: oblique;
+}
+span{
+    color: rgb(194, 18, 18);
+    font-weight: bolder;
+}
